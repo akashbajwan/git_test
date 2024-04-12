@@ -1,2 +1,5 @@
 # git_test
-Git using Linux
+My first Github Repo!
+Hello Odin  dfdfdf fsd
+
+WHy I'm making changes to this
